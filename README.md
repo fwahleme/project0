@@ -25,7 +25,7 @@ This project is six interconnected web pages providing information about some in
 | mo_interstate.scss | The SASS source file containing the Style for this project |
 | images | This folder contains the image file used in the above web pages | 
 
-* This submission includes the requirements for CS50W Project 0, enumerated below for reference.  
+This submission includes the requirements for CS50W Project 0, enumerated below for reference.  
 
 * Your website must contain at least four different .html pages, and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
 
