@@ -46,6 +46,11 @@ $hover_color: rgb(195, 0, 255);
     }
 }
 
+#interstate_grid{
+    @extend .block_centering;
+    width: 90%;
+}
+
 h3{
     text-align: center;
 }

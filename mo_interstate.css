@@ -1,4 +1,4 @@
-.block_centering, .interstate_image_header, .interstate_icon img, .interstate_image img {
+.block_centering, #interstate_grid, .interstate_image_header, .interstate_icon img, .interstate_image img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -37,6 +37,10 @@
     width: 80px;
   }
 }
+#interstate_grid {
+  width: 90%;
+}
+
 h3 {
   text-align: center;
 }
