@@ -2,7 +2,7 @@
 
 Web Programming with Python and JavaScript
 
-This project is six interconnected web pages providing information about some instersate highways in the state of Missouri.  Information displayed for each interstate includes:
+This project is six interconnected web pages providing information about some interstate highways in the state of Missouri.  Information displayed for each interstate includes:
     - Image of the interstate shield.
     - The South/West and North/East terminus within Missouri.
     - A list of major junctions within Missouri.
