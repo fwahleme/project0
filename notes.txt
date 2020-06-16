@@ -1,0 +1,10 @@
+
+git push <to repository> <local branch>:<remote branch>
+git push https://github.com/me50/fwahleme.git master:web50/projects/2020/x/0
+
+
+git branch shows local branch
+
+git branch -a shows both remote and local branches.
+
+git branch -r shows remote branches.
